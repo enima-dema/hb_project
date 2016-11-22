@@ -9,6 +9,7 @@ public class TestAmine {
 		System.out.println("The Number ONE");
 		System.out.println("Or maybethe number two");
 		System.out.println("Quand je suis dans ses bras, je vois la vie en rose");
+		System.out.println("Je suis fan d'Edith Piaf");
 	}
 
 }
