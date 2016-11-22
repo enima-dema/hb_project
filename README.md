@@ -1,7 +1,7 @@
-# README
+# README de ouf !!
 
-Premier fichier pour tester GIT !
-je t'ai modifié HaHaha !!!
+Premier fichier pour tester GIT !\n
+je t'ai modifié HaHaha !!!\n
 Amine il est trop beau
 Ajout par Eric
 je t'ai encore modifié HaHaha !!!
